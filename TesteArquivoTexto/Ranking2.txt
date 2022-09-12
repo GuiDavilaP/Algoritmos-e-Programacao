@@ -1,0 +1,3 @@
+C3PO; 6723;
+Princess Leia; 2945;
+Anakin Skywalker; 1009;

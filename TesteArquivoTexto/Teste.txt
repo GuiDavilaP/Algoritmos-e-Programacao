@@ -1,0 +1,4 @@
+ultimo; 100;
+segundo; 500;
+primeiro; 900;
+penultimo; 200;

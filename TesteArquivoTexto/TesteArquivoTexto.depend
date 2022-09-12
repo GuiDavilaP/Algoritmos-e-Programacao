@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662952080 source:d:\user\documents\ufrgs\1º semestre\algorítimos e programação\algorítmos\testearquivotexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
