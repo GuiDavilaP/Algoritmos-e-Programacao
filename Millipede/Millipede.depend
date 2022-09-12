@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1660587627 source:c:\users\aluno\documents\algoritmos\movimentoaranha\main.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1658250490 c:\dev-libs\raylib_x86-windows\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1660584789 source:c:\users\aluno\documents\algoritmos\movimentoaranha\movimentoaranha.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1661043633 source:c:\users\rose\documents\guilherme\jogo algoritmos e programação\movimentoaranha\main.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1661041416 source:c:\users\rose\documents\guilherme\jogo algoritmos e programação\movimentoaranha\gerenciaaranha.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1661193593 source:c:\users\aluno\documents\algoritmos\2\movimentoaranha\gerenciaaranha.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1661193321 source:c:\users\aluno\documents\algoritmos\2\movimentoaranha\main.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1662935998 source:d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\movimentoaranha\gerenciaaranha.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1662935992 source:d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\movimentoaranha\main.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1662938664 source:d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\millipede\gerenciaaranha.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"tiposLib.c"
+	"consGlobaisLib.c"
+
+1662938639 source:d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\millipede\main.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tiposLib.c"
+	"consGlobaisLib.c"
+	"gerenciaAranha.c"
+
+1662936830 source:d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\millipede\consglobaislib.c
+
+1662936830 d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\millipede\consglobaislib.c
+
+1662936953 d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\millipede\tiposlib.c
+	<raylib.h>
+	"consGlobaisLib.c"
+
+1662936953 source:d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\millipede\tiposlib.c
+	<raylib.h>
+	"consGlobaisLib.c"
+
+1662938664 d:\user\documents\ufrgs\1º semestre\algorítimos e programação\trabalhofinal\millipede\gerenciaaranha.c
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"tiposLib.c"
+	"consGlobaisLib.c"
+
