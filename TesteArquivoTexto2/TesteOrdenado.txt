@@ -1,5 +1,0 @@
-primeiro;900;
-teste;700;
-segundo;500;
-penultimo;200;
-ultimo;100;
